@@ -170,7 +170,9 @@ def parse_page(html):
             tm = RE_TIME.search(clean(box.get_text(" "))) if len(hrefs) == 1 else None
             if tm:
                 d = cur[1]
-                g.update(kind="timed", start=datetime(d.year, d.month, d.day, int(tm[1]), int(tm[2]), tzinfo=TZ))
+                # Die Seite liefert Zeiten in UTC, hier in deutsche Zeit umrechnen (Sommer-/Winterzeit automatisch)
+                start = datetime(d.year, d.month, d.day, int(tm[1]), int(tm[2]), tzinfo=UTC).astimezone(TZ)
+                g.update(kind="timed", start=start, date=start.date())
             else:
                 g.update(kind="day")
         found.append(g)

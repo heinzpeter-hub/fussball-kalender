@@ -1,0 +1,6 @@
+# Freundschaftsspiele des 1. FC Kaiserslautern (Profis)
+# Eine Zeile pro Spiel, Trennzeichen ist das Semikolon.
+# datum = JJJJ-MM-TT, uhrzeit = HH:MM (leer lassen, wenn unbekannt), ort und hinweis dürfen leer sein.
+# Zeilen mit # am Anfang werden ignoriert.
+# Beispiel: 2027-01-10;15:00;1. FC Kaiserslautern;Beispiel-Gegner;Kaiserslautern;Platz 4, ohne Zuschauer
+datum;uhrzeit;heim;gast;ort;hinweis

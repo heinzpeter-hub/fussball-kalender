@@ -2,11 +2,14 @@ name: Kalender aktualisieren
 
 on:
   schedule:
-    - cron: "17 4 * * *"     # täglich ca. 5:17 Uhr deutscher Zeit
-  workflow_dispatch:          # manueller Start-Button auf GitHub
+    - cron: "17 4 * * *"      # täglich ca. 5:17 Uhr deutscher Zeit
+  workflow_dispatch:
   push:
     branches: [main]
-    paths: ["build_ics.py"]   # läuft auch nach Änderungen am Skript
+    paths:
+      - "build_ics.py"
+      - "build_fck.py"
+      - "freundschaftsspiele.csv"
 
 permissions:
   contents: write
@@ -32,9 +35,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python build_ics.py
+      - name: Amateur-Spielplan
+        run: python build_ics.py
+
+      - name: FCK-Spielplan
+        if: ${{ !cancelled() }}
+        run: python build_fck.py
 
       - name: Stand im Repository speichern
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "kalender-bot"
           git config user.email "kalender-bot@users.noreply.github.com"
@@ -43,10 +52,13 @@ jobs:
           git push
 
       - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() }}
 
       - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
         with:
           path: docs
 
       - id: deployment
+        if: ${{ !cancelled() }}
         uses: actions/deploy-pages@v4

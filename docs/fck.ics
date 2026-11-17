@@ -1,0 +1,426 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FCK Kalender//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:1. FC Kaiserslautern
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+SUMMARY:VfL Wolfsburg – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-1@fck-kalender
+DESCRIPTION:Liga 1. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/1/vfl-wolfsburg-vs-1-fc
+ -kaiserslautern/liveticker
+LOCATION:Wolfsburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – Karlsruher SC
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-2@fck-kalender
+DESCRIPTION:Liga 2. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/2/1-fc-kaiserslautern-v
+ s-karlsruher-sc/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SV Waldhof Mannheim – 1. FC Kaiserslautern (DFB-Pokal\, 1. Runde
+ )
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+DTSTAMP:20261117T082105Z
+UID:dfb-pokal-2026-2027-runde-1@fck-kalender
+DESCRIPTION:DFB-Pokal 1. Runde\nAnstoßzeit nicht mehr abrufbar.\nhttps://
+ www.bundesliga.com/de/dfb-pokal/spieltag/2026-2027/runde-1/sv-waldhof-mann
+ heim-vs-1-fc-kaiserslautern/liveticker
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC St. Pauli – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-3@fck-kalender
+DESCRIPTION:Liga 3. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/3/fc-st-pauli-vs-1-fc-k
+ aiserslautern/liveticker
+LOCATION:Hamburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – SV Darmstadt 98
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-4@fck-kalender
+DESCRIPTION:Liga 4. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/4/1-fc-kaiserslautern-v
+ s-sv-darmstadt-98/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Magdeburg – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-5@fck-kalender
+DESCRIPTION:Liga 5. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/5/1-fc-magdeburg-vs-1-f
+ c-kaiserslautern/liveticker
+LOCATION:Magdeburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – Eintracht Braunschweig
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-6@fck-kalender
+DESCRIPTION:Liga 6. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/6/1-fc-kaiserslautern-v
+ s-eintracht-braunschweig/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Heidenheim 1846 – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-7@fck-kalender
+DESCRIPTION:Liga 7. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/7/1-fc-heidenheim-1846-
+ vs-1-fc-kaiserslautern/liveticker
+LOCATION:Heidenheim an der Brenz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – VfL Bochum 1848
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-8@fck-kalender
+DESCRIPTION:Liga 8. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/8/1-fc-kaiserslautern-v
+ s-vfl-bochum-1848/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Nürnberg – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-9@fck-kalender
+DESCRIPTION:Liga 9. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://ww
+ w.bundesliga.com/de/2bundesliga/spieltag/2026-2027/9/1-fc-nuernberg-vs-1-f
+ c-kaiserslautern/liveticker
+LOCATION:Nürnberg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover 96 – 1. FC Kaiserslautern (DFB-Pokal\, 2. Runde)
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261117T082105Z
+UID:dfb-pokal-2026-2027-runde-2@fck-kalender
+DESCRIPTION:DFB-Pokal 2. Runde\nAnstoßzeit nicht mehr abrufbar.\nhttps://
+ www.bundesliga.com/de/dfb-pokal/spieltag/2026-2027/runde-2/hannover-96-vs-
+ 1-fc-kaiserslautern/liveticker
+LOCATION:Hannover
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – Hertha BSC
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-10@fck-kalender
+DESCRIPTION:Liga 10. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://w
+ ww.bundesliga.com/de/2bundesliga/spieltag/2026-2027/10/1-fc-kaiserslautern
+ -vs-hertha-bsc/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfL Osnabrück – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-11@fck-kalender
+DESCRIPTION:Liga 11. Spieltag\nAnstoßzeit nicht mehr abrufbar.\nhttps://w
+ ww.bundesliga.com/de/2bundesliga/spieltag/2026-2027/11/vfl-osnabrueck-vs-1
+ -fc-kaiserslautern/liveticker
+LOCATION:Osnabrück
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – SG Dynamo Dresden
+DTSTART:20261122T113000Z
+DTEND:20261122T133000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-12@fck-kalender
+DESCRIPTION:Liga 12. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/12/1-fc-kaiserslautern-vs-sg-dynamo-dresden/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holstein Kiel – 1. FC Kaiserslautern
+DTSTART:20261128T110000Z
+DTEND:20261128T130000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-13@fck-kalender
+DESCRIPTION:Liga 13. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/13/holstein-kiel-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Kiel
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – SC Freiburg (DFB-Pokal\, Achtelfinale)
+DTSTART:20261202T160000Z
+DTEND:20261202T180000Z
+DTSTAMP:20261117T082105Z
+UID:dfb-pokal-2026-2027-achtelfinale@fck-kalender
+DESCRIPTION:DFB-Pokal Achtelfinale\nhttps://www.bundesliga.com/de/dfb-poka
+ l/spieltag/2026-2027/achtelfinale/1-fc-kaiserslautern-vs-sport-club-freibu
+ rg/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – SpVgg Greuther Fürth
+DTSTART:20261205T110000Z
+DTEND:20261205T130000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-14@fck-kalender
+DESCRIPTION:Liga 14. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/14/1-fc-kaiserslautern-vs-spvgg-greuther-fuerth/livetick
+ er
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSC Arminia Bielefeld – 1. FC Kaiserslautern
+DTSTART:20261211T163000Z
+DTEND:20261211T183000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-15@fck-kalender
+DESCRIPTION:Liga 15. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/15/dsc-arminia-bielefeld-vs-1-fc-kaiserslautern/livetick
+ er
+LOCATION:Bielefeld
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannover 96 – 1. FC Kaiserslautern
+DTSTART:20261220T113000Z
+DTEND:20261220T133000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-16@fck-kalender
+DESCRIPTION:Liga 16. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/16/hannover-96-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Hannover
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – FC Energie Cottbus
+DTSTART:20270117T113000Z
+DTEND:20270117T133000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-17@fck-kalender
+DESCRIPTION:Liga 17. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/17/1-fc-kaiserslautern-vs-fc-energie-cottbus/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – VfL Wolfsburg
+DTSTART:20270123T183000Z
+DTEND:20270123T203000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-18@fck-kalender
+DESCRIPTION:Liga 18. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/18/1-fc-kaiserslautern-vs-vfl-wolfsburg/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karlsruher SC – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270201
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-19@fck-kalender
+DESCRIPTION:Liga 19. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 29.01.–31.01.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/19/karlsruher-sc-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Karlsruhe
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – FC St. Pauli
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-20@fck-kalender
+DESCRIPTION:Liga 20. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 05.02.–07.02.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/20/1-fc-kaiserslautern-vs-fc-st-pauli/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SV Darmstadt 98 – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-21@fck-kalender
+DESCRIPTION:Liga 21. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 12.02.–14.02.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/21/sv-darmstadt-98-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Darmstadt
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – 1. FC Magdeburg
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-22@fck-kalender
+DESCRIPTION:Liga 22. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 19.02.–21.02.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/22/1-fc-kaiserslautern-vs-1-fc-magdeburg/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eintracht Braunschweig – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-23@fck-kalender
+DESCRIPTION:Liga 23. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 26.02.–28.02.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/23/eintracht-braunschweig-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Braunschweig
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – 1. FC Heidenheim 1846
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-24@fck-kalender
+DESCRIPTION:Liga 24. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 02.03.–04.03.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/24/1-fc-kaiserslautern-vs-1-fc-heidenheim-1846/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VfL Bochum 1848 – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-25@fck-kalender
+DESCRIPTION:Liga 25. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 05.03.–07.03.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/25/vfl-bochum-1848-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Bochum
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – 1. FC Nürnberg
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270315
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-26@fck-kalender
+DESCRIPTION:Liga 26. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 12.03.–14.03.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/26/1-fc-kaiserslautern-vs-1-fc-nuernberg/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hertha BSC – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-27@fck-kalender
+DESCRIPTION:Liga 27. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 19.03.–21.03.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/27/hertha-bsc-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Berlin
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – VfL Osnabrück
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-28@fck-kalender
+DESCRIPTION:Liga 28. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 02.04.–04.04.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/28/1-fc-kaiserslautern-vs-vfl-osnabrueck/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SG Dynamo Dresden – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-29@fck-kalender
+DESCRIPTION:Liga 29. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 09.04.–11.04.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/29/sg-dynamo-dresden-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Dresden
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – Holstein Kiel
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-30@fck-kalender
+DESCRIPTION:Liga 30. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 16.04.–18.04.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/30/1-fc-kaiserslautern-vs-holstein-kiel/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SpVgg Greuther Fürth – 1. FC Kaiserslautern
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-31@fck-kalender
+DESCRIPTION:Liga 31. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 23.04.–25.04.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/31/spvgg-greuther-fuerth-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Fürth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – DSC Arminia Bielefeld
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-32@fck-kalender
+DESCRIPTION:Liga 32. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 07.05.–09.05.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/32/1-fc-kaiserslautern-vs-dsc-arminia-bielefeld/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:1. FC Kaiserslautern – Hannover 96
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270517
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-33@fck-kalender
+DESCRIPTION:Liga 33. Spieltag\nNoch nicht zeitgenau angesetzt (Spieltag-Ze
+ itraum 14.05.–16.05.).\nhttps://www.bundesliga.com/de/2bundesliga/spielt
+ ag/2026-2027/33/1-fc-kaiserslautern-vs-hannover-96/liveticker
+LOCATION:Fritz-Walter-Stadion\, Fritz-Walter-Straße 1\, 67663 Kaiserslaut
+ ern
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FC Energie Cottbus – 1. FC Kaiserslautern
+DTSTART:20270523T113000Z
+DTEND:20270523T133000Z
+DTSTAMP:20261117T082105Z
+UID:2bundesliga-2026-2027-34@fck-kalender
+DESCRIPTION:Liga 34. Spieltag\nhttps://www.bundesliga.com/de/2bundesliga/s
+ pieltag/2026-2027/34/fc-energie-cottbus-vs-1-fc-kaiserslautern/liveticker
+LOCATION:Cottbus
+END:VEVENT
+END:VCALENDAR
